@@ -2,7 +2,7 @@
 
 /**
  * 
- * @author Name: Hanna Hayek            ID: 207442054
+ * @author Name: Hanna Hayek    
  * 
  */
 public class Page {  // this data structure gives us more flexibility than Nodes/Links.
