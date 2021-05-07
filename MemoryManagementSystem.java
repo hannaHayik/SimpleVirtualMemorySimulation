@@ -1,6 +1,6 @@
 /**
  * 
- * @author Name: Hanna Hayek            ID: 207442054
+ * @author Name: Hanna Hayek
  * 
  */
 import java.util.Arrays;
