@@ -6,3 +6,5 @@ to simple rules and achieving great run times (complexity).
 
 Input: file included in repository
 Output: included in repository
+
+NOTE: I have the assignment PDF, But because of copyright issues I can't publish it.
